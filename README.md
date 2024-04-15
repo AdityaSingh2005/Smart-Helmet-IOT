@@ -33,4 +33,5 @@ Mukut is a comprehensive mobile application designed to prioritize your safety a
 ## Images 
 ![WhatsApp Image 2024-04-12 at 16 26 21_577df344](https://github.com/AdityaSingh2005/Smart-Helmet-IOT/assets/103613774/bbf74944-c800-4ce0-8461-8ab95f8c0a72)
 
-![WhatsApp Image 2024-04-12 at 16 26 21_577df344](https://github.com/AdityaSingh2005/Smart-Helmet-IOT/assets/103613774/cd7c1acc-abf7-4333-b6e8-0a4fca4cf41e)
+![WhatsApp Image 2024-04-12 at 16 26 22_1fe8c308](https://github.com/AdityaSingh2005/Smart-Helmet-IOT/assets/103613774/515e4bca-696f-44a2-b040-0064692f7168)
+
